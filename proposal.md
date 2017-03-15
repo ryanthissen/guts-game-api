@@ -19,3 +19,11 @@
       - do you want to stay or fold?
       - do you want to quit?
   7. What technologies do you plan to use?
+      - We are going to use the cardDeck API, KNEX, BCRYPT and JWT, JOI, MOCHA, PSQL, SUPERTEST, SWAGGER, EPRESS-VALIDATIONS
+  8. List of Features
+     - You can create an account and log in
+     - You can search for games that are waiting for players and join one.
+     - You can also search games by a custom ID to find a specific game to join
+     - In the game of guts you can decide to drop out of the game at any time and have your stats saved.  
+     - You can check your stats to see how many chips you have and how many hands you've won/lost.  
+  9.
