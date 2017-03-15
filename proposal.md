@@ -5,11 +5,11 @@
   3.  Project Game: Guts Game API
   4.  Product Description: A backend API for GutsGame, the worldwide leader in online guts.  It will allow users to create an account, log in, and join a guts game to play.  In the game the API will serve up game states to the browser.  
   5.  What outputs do they need?  
-     - confirm account creation
-     - confirm log in
-     - validate log in
-     - show a list of games to join
-     - output the game state.  Cards, chips, players in game, what other players cards are, who won the hand.  
+      - confirm account creation
+      - confirm log in
+      - validate log in
+      - show a list of games to join
+      - output the game state.  Cards, chips, players in game, what other players cards are, who won the hand.  
 
   6.  What inputs do they need?
       - sign up screen(username, email, password)
